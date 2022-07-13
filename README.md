@@ -1,1 +1,1 @@
-# ResNet
+# ResNet in PyTorch
