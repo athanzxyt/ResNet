@@ -6,3 +6,4 @@ This is a re-implementation of the ResNet model into PyTorch. Please note that R
 | ----------- | ----------- |
 | resnet.py      | ResNet class       |
 | main.py   | Script to run tests on the CIFAR dataset        |
+| accXX.png | Accuracy graph of Classification over Iteration. |
