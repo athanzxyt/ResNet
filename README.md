@@ -5,6 +5,7 @@ This is a re-implementation of the ResNet model into PyTorch. Please note that R
 Training on NVIDIA RTX A6000 yielded the following results:
 
 | | ResNet18 | ResNet50 |
+| ------- | -------- |
 | Top1 Accuracy | 87.5% | 81.3% | 
 | Top5 Accuracy | 98.4% | 99.2% |
 
