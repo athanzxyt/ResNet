@@ -1,5 +1,8 @@
 # ResNet in PyTorch
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
+
 This is a re-implementation of the ResNet model into PyTorch. Please note that ResNet architecture for the ImageNet dataset found in the paper was implemented. However, was tested on the CIFAR-10 dataset. 
 
 Training on NVIDIA RTX A6000 yielded the following results:
