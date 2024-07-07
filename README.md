@@ -27,3 +27,7 @@ Here is a summary of the files in this respository:
 ### Citations
 
 [1] He, K., Zhang, X., Ren, S., &amp; Sun, J. (2016). Deep residual learning for image recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). https://doi.org/10.1109/cvpr.2016.90 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
